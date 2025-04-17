@@ -1,1 +1,2 @@
-# Perceptron-AND---OR
+# Perceptron AND and Perceptron OR
+
